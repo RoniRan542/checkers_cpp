@@ -1,1 +1,2 @@
-#Chckers game
+# Checkers game
+Checkers game in C++
